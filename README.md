@@ -11,6 +11,6 @@ This script monitors new or updated apartment rental listings from Yad2 and send
 ### 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yad2-rent-watcher.git
-cd yad2-rent-watcher
+git clone git clone git@github.com:liors16/alerts-yad2.git
+cd alerts-yad2
 ```
